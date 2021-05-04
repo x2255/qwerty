@@ -28,7 +28,9 @@
 }
 .div-the{
   display: flex;
-
-  text-align: center ;
-
+  justify-content: space-around;
+}
+.divv{
+  width: auto;
+  text-align: center;
 }
