@@ -1,4 +1,44 @@
-.body li{
+.body li,a {
   list-style: none;
-  width: 300px;
+  text-decoration: none;
+  
+}
+.career{
+  background-color: #000;
+  color: gold;
+  width: 250px;
+}
+.admission{
+  background-color: #000;
+  color: gold;
+  width: 250px;
+}
+.accommodation{
+  background-color: #000;
+  color: gold;
+  width: 250px;
+}
+
+.the-div{
+  display: flex;
+  justify-content: space-around;
+
+}
+.pre-{
+  background-color: #000;
+  color: gold;
+
+  width: 250px;
+}
+.visa{
+  width: 250px;
+  background-color: #000;
+  color: gold;
+
+}
+.div-the{
+  display: flex;
+
+  text-align: center ;
+
 }
